@@ -1,1 +1,1 @@
-console.log("add code")
+console.log("add code added by ninja")
